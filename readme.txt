@@ -71,4 +71,4 @@ ALL supporters and contributors:
 BUGS and FEATURE REQUESTS:
 -----------------------------------------------------------------------------------------------------------
 
-Please post on GitHub (https://github.com/DESIGNfromWITHIN/Flexibility4) or e-mail me at: info@designfromwithin.com
+Please post on GitHub (https://github.com/DESIGNfromWITHIN/Flexibility4Issues/issues) or e-mail me at: info@designfromwithin.com
