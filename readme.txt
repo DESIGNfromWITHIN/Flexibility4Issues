@@ -30,7 +30,7 @@ MANUAL INSTALL
 
 1. Install MODX Revolution on your website.
 
-2. download the package and upload the "flexibility-0.0.1-rc.transport.zip" file to "<your_modx_install>/core/packages/" (You only need the transport.zip file, do not unzip it yourself)
+2. download the package and upload the "flexibility4-0.0.1-alpha.transport.zip" file to "<your_modx_install>/core/packages/" (You only need the transport.zip file, do not unzip it yourself)
 
 3. Install the "Flexibility 4" package: Go to "System" > "Package Management" > "Add New Package" > "Search Locally for Packages" > "Yes".
 
