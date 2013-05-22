@@ -1,0 +1,124 @@
+Changelog for Flexibility
+
+flexibility4-0.0.2-rc.transport (22 march 2013)
+====================================
+- Fixed TV's not being assigned to templates (Thanks Jörg Lippmann @donalbain_de)
+- Removed the Sidebar TV from the page without sidebar
+- Added ios-orientationchange-fix.js (Thanks @PgnFrsh)
+
+flexibility4-0.0.1-rc.transport (21 march 2013)
+====================================
+- Huge update to v4!
+- Updates without losing content
+- Removed the installation of default resources (this is not the 'MODX way')
+- Lexicons added
+- Articles added
+- MIGX slider items added
+- Gallery added
+- Search improved
+- Google sitemap added
+- Version X added
+- Ace added
+- Replaced Tiny MCE with ckeditor
+- Client Config added (needs to be configured)
+- PHPthunbsUp added and used in the image gallery
+- Responsive lightbox added
+- Added page templates with left and right sidebar
+
+flexibility-3.0.6-rc.transport (18 januari 2013)
+====================================
+- Added a mobile input navigation for smaller screens
+- The full template should now be faster and more streamlined
+
+flexibility-3.0.5-rc.transport (12 december 2012)
+====================================
+- Changed UPDATE_OBJECT back to TRUE (xPDOTransport::UPDATE_OBJECT => true), this was not working... Will try to create a seperate update package to Flexibility.
+
+flexibility-3.0.4-rc.transport (4 december 2012)
+====================================
+- Fixed Slider MIGX items (again)
+
+flexibility-3.0.3-rc.transport (14 november 2012)
+====================================
+- Fixed Slider MIGX item, should work fine now
+
+flexibility-3.0.2-rc.transport (6 november 2012)
+====================================
+- Flexibility is a Release Candidate now!
+- Updated to Foundation 3.2
+- Changed UPDATE_OBJECT to FALSE (xPDOTransport::UPDATE_OBJECT => false), should prevent overwriting content on existing Flexibility installs.
+- Added slide content
+- Updated formit to 2.1.2-pl
+- Updated getresources to 1.5.1-pl
+- Updated migx to 2.3.2-pl
+
+flexibility-3.0.1-alpha.transport (3 september 2012)
+====================================
+- Updated to Foundation 3.1.1
+- Tested for MODX Revolution 2.2.5-pl
+
+flexibility-3.0.0-alpha.transport (16 august 2012)
+====================================
+- Updated to Foundation 3.0
+
+flexibility-2.1.1-alpha.transport (16 august 2012)
+====================================
+- Updated FormIt to formit-2.1.1-pl.transport
+- Updated Gallery to gallery-1.5.2-pl.transport
+- Updated GetResources to getresources-1.5.0-pl.transport
+- Updated MIGX to migx-2.3.0-pl.transport
+- Updated SimpleSearch to simplesearch-1.6.0-pl.transport
+- Updated TinyMCE to tinymce-4.3.3-pl.transport
+- Updated TinyMCE to tinymce-4.3.3-pl.transport
+
+flexibility-2.1.0-alpha.transport (2 august 2012)
+====================================
+- Fixed the Image slider (many thanks to: Designforge)
+- Updated MIGX to migx-2.2.3-pl.transport
+
+flexibility-2.0.9-alpha.transport (7 july 2012)
+====================================
+- Added the first commit adding the In-Field-Labels jquery plugin (many thanks to: frogabog)
+
+flexibility-2.0.8-alpha.transport (5 june 2012)
+====================================
+- Fixed the php thumb bug and gallery
+- Added the latest version of fancybox.js
+- Updated packages Articles to articles-1.6.1-pl.transport
+- Updated packages Simple Search to simplesearch-1.6.0-pl.transport
+- Updated packages MIGX to migx-2.0.1-pl.transport
+- Updated packages Gallery to gallery-1.5.0-pl.transport
+- Added "'gallery.thumbs_prepend_site_url' => true" setting to the install
+- Added "'phpthumb_allow_src_above_docroot' => true" setting to the install
+
+flexibility-2.0.6-alpha.transport (11 march 2012)
+====================================
+- Changed TV order
+- Removed unwanted code
+- Added Public License
+- Remove includeTemplate code, now using Media Sources
+- Updated packages (FormIt, getResources, simplesearch, TinyMCE)
+- Updated Foundation Framework to 2.2
+- Fixed small dropdown issue
+
+flexibility-2.0.5-alpha.transport (8 febuary 2012)
+====================================
+- Fixed sub-page-2 bug (thanks Showa!)
+
+flexibility-2.0.4-alpha.transport (5-2-2012)
+====================================
+- Template variables are now added to the correct template.
+- Ready for ALPHA testing!
+
+flexibility-2.0.3-beta.transport (4 febuary 2012)
+====================================
+- Using just one category now.
+- Fixed MIGX bug.
+
+flexibility-2.0.2-beta.transport (17 december 2011)
+====================================
+- Added MIGX TV's for adding slides to the image slider.
+
+flexibility-2.0.1-beta.transport (13 december 2011)
+====================================
+- First version online!
