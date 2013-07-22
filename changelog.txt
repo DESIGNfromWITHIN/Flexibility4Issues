@@ -1,5 +1,10 @@
 Changelog for Flexibility
 
+flexibility4-1.0.0-rc.transport (22 juli 2013)
+====================================
+- 100% rebuilt using Bob Ray's MyComponent 3.1.1-pl
+- Seperated template content and core files, seperate package with demo content available soon
+
 flexibility4-0.0.2-rc.transport (22 march 2013)
 ====================================
 - Fixed TV's not being assigned to templates (Thanks Jörg Lippmann @donalbain_de)
