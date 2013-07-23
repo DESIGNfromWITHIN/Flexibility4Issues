@@ -1,5 +1,11 @@
 Changelog for Flexibility
 
+flexibility4-1.0.3-rc.transport (23 juli 2013)
+====================================
+- Added Page title to Foundation top bar navigation
+- Replaced ckeditor with Tiny MCE, linked CSS styles and added button style selectors to Tiny MCE
+- Updated readme
+
 flexibility4-1.0.2-rc.transport (23 juli 2013)
 ====================================
 - Added working Foundation top bar navigation + navigation option

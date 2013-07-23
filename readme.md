@@ -28,6 +28,7 @@ MANUAL INSTALL
 ADDING AND CHANGING CONTENT
 ----------------------------
 - Simply add resources/pages as you need annd assign the template you want to use. After selecting a template you will find template specific options under the 'Template Variables' tab.
+- Content can be updated using Tiny MCE, the active CSS styles will be shown automatically and easy to select style classes are selectable via the 'Styles' button.
 
 ----------------------------
 CHOOSING THE NAVIGATION TYPE
@@ -46,9 +47,9 @@ CREDITS, SUPPORTERS AND CONTRIBUTORS:
 - http://foundation.zurb.com/
 - http://html5boilerplate.com/ (not used but got me started....)
 - The MODX Revolution team for the whole MODX system
-- Anselm Hannemann for the MODx Boilerplate, http://anselm.novolo.de/
+- Anselm Hannemann (http://anselm.novolo.de/) for the MODX Boilerplate
 - The MODX community for all the great tips and support!
-- Bob Ray for the amazing MyComponent package
+- Bob Ray (http://bobsguides.com/) for the amazing MyComponent package
 
 ----------------------------
 BUGS and FEATURE REQUESTS:
