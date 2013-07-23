@@ -1,5 +1,10 @@
 Changelog for Flexibility
 
+flexibility4-1.0.2-rc.transport (23 juli 2013)
+====================================
+- Added working Foundation top bar navigation + navigation option
+- Under system settings > (filter for 'flexibility4') > 'Use Foundation top bar for main navigation' you can select wich type of navigation you want
+
 flexibility4-1.0.0-rc.transport (22 juli 2013)
 ====================================
 - 100% rebuilt using Bob Ray's MyComponent 3.1.1-pl
