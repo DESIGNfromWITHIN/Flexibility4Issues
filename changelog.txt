@@ -1,14 +1,23 @@
 Changelog for Flexibility
 
+flexibility4-1.0.4-rc.transport (24 juli 2013)
+====================================
+- Fixed 'unable to update flex-4-logo system setting bug' (thanks to: acidic - https://github.com/acidic and Allan Brooke - https://github.com/allanjpb)
+- Removed Page title to Foundation 4 top bar navigation (don't like this actually)
+- Added Open Graph Protocol (http://ogp.me/) meta tags in header, added the the Template Varibale SEO options for it
+- Updated readme
+- Added orbit slider to homepage, included PictureFill responsive images (https://github.com/scottjehl/picturefill) and optional slide content
+- Added Image gallery template using Galley plugin (http://rtfm.modx.com/display/ADDON/Gallery), Magnific Popup (http://dimsemenov.com/plugins/magnific-popup/)
+
 flexibility4-1.0.3-rc.transport (23 juli 2013)
 ====================================
-- Added Page title to Foundation top bar navigation
+- Added Page title to Foundation 4 top bar navigation
 - Replaced ckeditor with Tiny MCE, linked CSS styles and added button style selectors to Tiny MCE
 - Updated readme
 
 flexibility4-1.0.2-rc.transport (23 juli 2013)
 ====================================
-- Added working Foundation top bar navigation + navigation option
+- Added working Foundation 4 top bar navigation (http://foundation.zurb.com/docs/components/top-bar.html) + navigation option
 - Under system settings > (filter for 'flexibility4') > 'Use Foundation top bar for main navigation' you can select wich type of navigation you want
 
 flexibility4-1.0.0-rc.transport (22 juli 2013)
