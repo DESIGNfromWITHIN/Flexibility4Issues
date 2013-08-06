@@ -7,6 +7,7 @@ flexibility4-1.0.7-rc.transport (6 august 2013)
 flexibility4-1.0.6-rc.transport (5 august 2013)
 ====================================
 - Added settings to manager
+- Replaced PictureFill responsive images (https://github.com/scottjehl/picturefill) with phpthumbsup responsive images
 
 flexibility4-1.0.5-rc.transport (27 juli 2013)
 ====================================
