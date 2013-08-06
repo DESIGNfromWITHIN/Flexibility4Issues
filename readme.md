@@ -3,6 +3,8 @@ Flexibility 4 http://flexibilitymodx.com/
 
 Flexibility - Fully functional MODX Revolution website. Quickstart projects by creating a fully working MODX Revolution website with just one package! Flexibility includes navigation, search, blog, client setting, templates, template variables and more.
 
+ATTENTION: While it should be possible to install Flexibility 4 in excisting MODX websites, I strongly advice you to use a fresh installation of MODX.
+
 This package is meant to be used once to quick-start MODX website projects. It will install a lot of things and provide a nice responsive MODX website based on the Foundation framework from ZURB.
 
 ----------------------------
