@@ -1,5 +1,19 @@
 Changelog for Flexibility
 
+flexibility4-1.0.7-rc.transport (6 august 2013)
+====================================
+- Updated the sub-package installation
+
+flexibility4-1.0.6-rc.transport (5 august 2013)
+====================================
+- Added settings to manager
+
+flexibility4-1.0.5-rc.transport (27 juli 2013)
+====================================
+- Added contact for using FormIt
+- Sidebar option added on homepage, contact and basic page template
+- Set image slider to 'no' for default
+
 flexibility4-1.0.4-rc.transport (24 juli 2013)
 ====================================
 - Fixed 'unable to update flex-4-logo system setting bug' (thanks to: acidic - https://github.com/acidic and Allan Brooke - https://github.com/allanjpb)
